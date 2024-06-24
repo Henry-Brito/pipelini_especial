@@ -2,7 +2,7 @@ name: Qa test
 
 on:
   pull_request:
-    branches: [ "Qa" ]
+    branches: [ "QA" ]
 
 jobs:
   build:
